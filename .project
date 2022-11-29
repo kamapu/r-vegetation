@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>r-vegetation</name>
+	<comment>
+		Homepage for the course dealing with the use of R for the analysis of
+		vegetation data.
+	</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
