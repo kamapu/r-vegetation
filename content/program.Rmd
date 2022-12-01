@@ -1,0 +1,57 @@
+---
+title: Program
+output: html_document
+---
+
+# Course description
+
+A big challenge for vegetation scientists is dealing with data sets organized in
+multiple tables. Furthermore the taxonomic hierarchies and nomenclature
+resolution for recorded organisms is not considered in most of the statistical
+applications.
+
+In this online workshop we will learn alternative ways to store vegetation data
+sets and their import into the software R for further data handling and
+assessment. We will also discuss about suitable strategies to equalize taxonomic
+nomenclature comparing with suitable data bases. We will introduce to the use of
+the package [vegtable](http://kamapu.github.io/vegtable/) to structure such data
+in R, to pre-process it and do some descriptive statistics and exploratory
+assessments.
+
+
+# Intended schedule
+
+The workshop will be organized in 5 sessions, each of 3 teaching hours plus a 15
+minutes break (2.5 chronological hours).
+
+
+## Session 1 (24-02-2023)
+
+- Introduction to the course
+- Data arrangement
+- Taxonomic lists
+
+
+## Session 2 (03-03-2023)
+
+- Taxonomic lists (cont.)
+- Alternative data formats
+
+
+## Session 3 (17-03-2023)
+
+- Refreshing statistics and graphics in R
+- Counting taxa
+- Taxonomic attributes
+
+
+## Session 4 (24-03-2023)
+
+- Plot aggregation
+- Mapping
+
+
+## Session 5 (31-03-2023)
+
+- Reproducible statistical assessment using Rmarkdown
+- Closure

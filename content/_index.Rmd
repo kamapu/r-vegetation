@@ -1,0 +1,30 @@
+---
+title: From the field to the desk
+output: html_document
+---
+
+*All what you need to know about floristic data before doing statistics*
+
+# What is this about?
+
+This is an online workshop about dealing with vegetation-plot data in the
+statistical computing software [R](https://www.r-project.org/).
+The workshop focus on structuring data, equalizing taxonomic nomenclature and
+doing descriptive statistics using the package
+[vegtable](http://kamapu.github.io/vegtable/).
+
+
+# What do you need to attend?
+
+- Experience doing regression models and plotting in R.
+- Knowledge about vector classes and objects in R.
+- Basic knowledge on multivariate statistics.
+
+The workshop is restricted to a maximum of 30 participants and will have a cost
+of **30 EUR** for members of [IAVS](https://www.iavs.org/) and **70 EUR** for
+non-members.
+
+Interested? To register for the workshop, click [here](https://www.iavs.org/).
+
+We are also offering waivers. The instructions for application are
+[here](https://www.iavs.org/).

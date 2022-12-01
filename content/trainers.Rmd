@@ -1,0 +1,18 @@
+---
+title: Trainers
+output: html_document
+---
+
+**Miguel Alvarez**
+
+Biosketch
+
+
+**Marius Bottin**
+
+Biosketch
+
+
+**João Pedro Costa Elias**
+
+Biosketch
