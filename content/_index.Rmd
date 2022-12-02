@@ -14,7 +14,7 @@ doing descriptive statistics using the package
 [vegtable](http://kamapu.github.io/vegtable/).
 
 
-# What do you need to attend?
+# Requirements for participants
 
 - Experience doing regression models and plotting in R.
 - Knowledge about vector classes and objects in R.
