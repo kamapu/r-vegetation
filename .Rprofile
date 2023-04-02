@@ -20,6 +20,3 @@ options(
   # set publishing directory as requested by GitHub
   blogdown.publishDir = 'docs'
 )
-
-# fix Hugo version
-options(blogdown.hugo.version = "0.104.3")
