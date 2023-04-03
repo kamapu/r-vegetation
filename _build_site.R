@@ -3,54 +3,45 @@
 # Author: Miguel Alvarez
 ################################################################################
 
+library(quarto)
 library(rmarkdown)
-library(blogdown)
-library(biblio)
-library(readODS)
+## library(biblio)
+## library(readODS)
 library(zip)
-## library("git2r")
 
 Repo <- "../r-vegetation-resources"
 
-# Produce data set
+# Data Sets ----
 Files <- list.files(file.path(Repo, "data"), full.names = TRUE)
-Files[!grepl(".log", Files, fixed = TRUE)]
-unlink("static/documents/KursDateien.zip")
-zip("static/documents/KursDateien.zip", Files, mode = "cherry-pick")
+Files <- Files[!Files %in% file.path(Repo, "data", c("_donot-run.R"))]
 
-# Instruction for installing
-Files <- file.path(Repo, "downloads", "installieren.Rmd")
-render(Files)
+unlink("documents/course-data.zip")
+zip("documents/course-data.zip", Files, mode = "cherry-pick")
 
-Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
-file.copy(from = Files, to = "static/documents", overwrite = TRUE)
+# Installation Instructions ----
 
-# Reference list
-Refs <- read_ods(file.path(Repo, "downloads", "bib_references.ods"))
 
-Bib <- read_bib("../../db-dumps/literatur_db/bib/MiguelReferences.bib")
-Bib <- subset(Bib, bibtexkey %in% Refs$bibtexkey)
+## # Reference List ----
+## Refs <- read_ods(file.path(Repo, "downloads", "bib_references.ods"))
+## 
+## Bib <- read_bib("../../db-dumps/literatur_db/bib/MiguelReferences.bib")
+## Bib <- subset(Bib, bibtexkey %in% Refs$bibtexkey)
+## 
+## reflist(Bib, "static/documents/Referenzen", title = "Empfohlene Referenzen",
+##     author = "Miguel Alvarez", output = "pdf_document")
 
-reflist(Bib, "static/documents/Referenzen", title = "Empfohlene Referenzen",
-    author = "Miguel Alvarez", output = "pdf_document")
-
-# Folien
-Files <- list.files(file.path(Repo, "Folien"), pattern = ".Rmd",
+# Slides ----
+Files <- list.files(file.path(Repo, "slides"), pattern = ".Rmd",
     full.names = TRUE)
 
 for(i in Files) render(i)
 
 Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
-file.copy(from = Files, to = "static/documents", overwrite = TRUE)
+file.copy(from = Files, to = "documents", overwrite = TRUE)
 
 # Build the page
-build_site(build_rmd = TRUE)
-## serve_site()
-## stop_server()
+quarto_render()
+## quarto_preview()
 
 # Commit changes
-## Files <- list.files(recursive = TRUE, full.names = TRUE)
-## add(path = Files)
-## commit(message = "Commit from git2r")
 system("git add . && git commit -m \"Commit from eclipse.\" && git push")
-## push() # TODO: Wise way to add credentials

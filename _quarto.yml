@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 4200
+    browser: true
+
+website:
+  title: ""
+  favicon: /images/favicon.ico
+  sidebar:
+    logo: /images/logo.png
+  navbar:
+    #logo: /images/logo.png
+    right: 
+      - href: downloads.qmd
+        text: Downloads
+      - href: sessions.qmd
+        text: Sessions
+      - href: people.qmd
+        text: People
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+

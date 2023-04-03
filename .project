@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>r-vegetation</name>
+	<name>r-vegetation-test</name>
 	<comment>
-		Homepage for the course dealing with the use of R for the analysis of
-		vegetation data.
+		Test page for workshop.
 	</comment>
 	<projects>
 	</projects>
