@@ -41,7 +41,7 @@ file.copy(from = Files, to = "documents", overwrite = TRUE)
 
 # Build the page
 quarto_render()
-## quarto_preview()
+## quarto_preview(port = "4200", host = "localhost")
 
 # Commit changes
 system("git add . && git commit -m \"Commit from eclipse.\" && git push")
