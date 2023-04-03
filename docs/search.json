@@ -7,6 +7,13 @@
     "text": "What is this about?\nThis is an online workshop about dealing with vegetation-plot data in the statistical computing software R. The workshop focus on structuring data, equalizing taxonomic nomenclature and doing descriptive statistics using the package vegtable."
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here is the collection of submitted homeworks resolved by the participants."
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -14,17 +21,24 @@
     "text": "Trainers\nMiguel Alvarez\nBiosketch\nMarius Bottin\nBiosketch\nJoão Pedro Costa Elias\nBiosketch\n\n\nCoordination"
   },
   {
+    "objectID": "in-construction.html",
+    "href": "in-construction.html",
+    "title": "This page is under construction",
+    "section": "",
+    "text": "Credits of the image: DALL-E 2"
+  },
+  {
     "objectID": "sessions.html",
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Session 1\nPage under construction\n\n\nSession 2"
+    "text": "Session 1\nDescription will be done soon.\nslides\nscript\n\n\nSession 2\nDescription will be done soon.\nslides\nscript\n\n\nSession 3\nDescription will be done soon.\nslides\nscript\n\n\nSession 4\nDescription will be done soon.\nslides\nscript\n\n\nSession 5\nDescription will be done soon.\nslides\nscript"
   },
   {
     "objectID": "downloads.html",
     "href": "downloads.html",
     "title": "Downloads",
     "section": "",
-    "text": "Page under construction"
+    "text": "Installing Software and Packages\nA list of links to the required software is here.\nOnce you mastered to get your system running, you will need to install some packages in R. For it, use following instructions.\n\n\nDownload Data\nA zip file with the data sets required for the R sessions can be downloaded here.\nAlternatively, you load the data in your working directory by running following code in your R session:\n\ndownload.file(\n    url = \"https://kamapu.github.io/r-vegetation/documents/course-data.zip\",\n    destfile = \"course-data.zip\", method = \"curl\")\nunzip(\"course-data.zip\", overwrite = TRUE)\nunlink(\"course-data.zip\")"
   }
 ]

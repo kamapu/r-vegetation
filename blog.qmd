@@ -1,0 +1,5 @@
+---
+title: Blog
+---
+
+Here is the collection of submitted homeworks resolved by the participants.
