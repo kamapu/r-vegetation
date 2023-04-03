@@ -18,8 +18,15 @@ Files <- Files[!Files %in% file.path(Repo, "data", c("_donot-run.R"))]
 unlink("documents/course-data.zip")
 zip("documents/course-data.zip", Files, mode = "cherry-pick")
 
-# Installation Instructions ----
+# Program ----
+Files <- file.path(Repo, "course-program", "program-sessions.Rmd")
 
+for(i in Files) render(i)
+
+Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
+file.copy(from = Files, to = "documents", overwrite = TRUE)
+
+# Installation Instructions ----
 
 ## # Reference List ----
 ## Refs <- read_ods(file.path(Repo, "downloads", "bib_references.ods"))

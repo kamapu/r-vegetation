@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "From the field to the desk",
     "section": "",
-    "text": "What is this about?\nThis is an online workshop about dealing with vegetation-plot data in the statistical computing software R. The workshop focus on structuring data, equalizing taxonomic nomenclature and doing descriptive statistics using the package vegtable."
+    "text": "What is this about?\nThis is an online workshop about dealing with vegetation-plot data in the statistical computing software R. The workshop focus on structuring data, equalizing taxonomic nomenclature and doing descriptive statistics using the package vegtable.\nFor a detailed program on this event, click here."
   },
   {
     "objectID": "blog.html",
@@ -32,7 +32,7 @@
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Session 1\nDescription will be done soon.\nslides\nscript\n\n\nSession 2\nDescription will be done soon.\nslides\nscript\n\n\nSession 3\nDescription will be done soon.\nslides\nscript\n\n\nSession 4\nDescription will be done soon.\nslides\nscript\n\n\nSession 5\nDescription will be done soon.\nslides\nscript"
+    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nscript\n\n\nSession 2\nWe dedicate this session to data formats and arrangements. Here we will introduce to the packages taxlist and vegtable, which are suitable for managing taxonomic information and vegetation-plot data sets, respectively.\nslides\nscript\n\n\nSession 3\nThis session is about assessing environmental and taxonomic information at each vegetation-plot observation. Here, we will make use of some background on descriptive statistics.\nslides\nscript\n\n\nSession 4\nIt is time to get more advance skills on working with R Markdown. We will also work with aggregating information to clusters of plots.\nslides\nscript\n\n\nSession 5\nWe will do some hypothesis tests and multivariate statistical analysis. To conclude this workshop, you will be asked to provide some feedback for future events.\nslides\nscript"
   },
   {
     "objectID": "downloads.html",

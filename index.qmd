@@ -12,3 +12,6 @@ statistical computing software [R](https://www.r-project.org/).
 The workshop focus on structuring data, equalizing taxonomic nomenclature and
 doing descriptive statistics using the package
 [vegtable](http://kamapu.github.io/vegtable/).
+
+For a detailed program on this event, [click
+here](documents/program-sessions.pdf).

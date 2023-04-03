@@ -4,7 +4,10 @@ title: Sessions
 
 # Session 1
 
-Description will be done soon.
+We will do a refresh on [**R**](https://cran.r-project.org/) basics focussing on data types, objects, and
+methods.
+This session includes a brief introduction on [**R
+Markdown**](https://rmarkdown.rstudio.com/) and taxonomic resolution.
 
 [slides](documents/vegetation-1.pdf)
 
@@ -12,7 +15,12 @@ Description will be done soon.
 
 # Session 2
 
-Description will be done soon.
+We dedicate this session to data formats and arrangements.
+Here we will introduce to the
+packages
+[`taxlist`](https://docs.ropensci.org/taxlist/) and
+[`vegtable`](http://kamapu.github.io/vegtable/), which are suitable for
+managing taxonomic information and vegetation-plot data sets, respectively.
 
 [slides](documents/vegetation-2.pdf)
 
@@ -20,7 +28,9 @@ Description will be done soon.
 
 # Session 3
 
-Description will be done soon.
+This session is about assessing environmental and taxonomic information at each
+vegetation-plot observation.
+Here, we will make use of some background on descriptive statistics.
 
 [slides](documents/vegetation-3.pdf)
 
@@ -28,7 +38,9 @@ Description will be done soon.
 
 # Session 4
 
-Description will be done soon.
+It is time to get more advance skills on working with
+[**R Markdown**](https://rmarkdown.rstudio.com/).
+We will also work with aggregating information to clusters of plots.
 
 [slides](documents/vegetation-4.pdf)
 
@@ -36,7 +48,9 @@ Description will be done soon.
 
 # Session 5
 
-Description will be done soon.
+We will do some hypothesis tests and multivariate statistical analysis.
+To conclude this workshop, you will be asked to provide some feedback for
+future events.
 
 [slides](documents/vegetation-5.pdf)
 
