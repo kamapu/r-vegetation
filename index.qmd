@@ -1,0 +1,14 @@
+---
+title: "From the field to the desk"
+---
+
+![](images/Image-Poster.jpg)
+
+
+# What is this about?
+
+This is an online workshop about dealing with vegetation-plot data in the
+statistical computing software [R](https://www.r-project.org/).
+The workshop focus on structuring data, equalizing taxonomic nomenclature and
+doing descriptive statistics using the package
+[vegtable](http://kamapu.github.io/vegtable/).

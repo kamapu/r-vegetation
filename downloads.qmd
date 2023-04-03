@@ -1,0 +1,30 @@
+---
+title: Downloads
+---
+
+# Installing Software and Packages
+
+A list of links to the required software is [here](in-construction.qmd).
+
+Once you mastered to get your system running, you will need to install some
+packages in **R**.
+For it, use [following instructions](in-construction.qmd).
+
+# Download Data
+
+A zip file with the data sets required for the R sessions can be downloaded
+[here](documents/course-data.zip).
+
+Alternatively, you load the data in your working directory by running
+following code in your R session:
+
+
+```{r}
+#| eval: false
+
+download.file(
+    url = "https://kamapu.github.io/r-vegetation/documents/course-data.zip",
+    destfile = "course-data.zip", method = "curl")
+unzip("course-data.zip", overwrite = TRUE)
+unlink("course-data.zip")
+```

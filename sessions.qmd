@@ -1,0 +1,43 @@
+---
+title: Sessions
+---
+
+# Session 1
+
+Description will be done soon.
+
+[slides](documents/vegetation-1.pdf)
+
+[script](documents/session-1.R)
+
+# Session 2
+
+Description will be done soon.
+
+[slides](documents/vegetation-2.pdf)
+
+[script](documents/session-2.R)
+
+# Session 3
+
+Description will be done soon.
+
+[slides](documents/vegetation-3.pdf)
+
+[script](documents/session-3.R)
+
+# Session 4
+
+Description will be done soon.
+
+[slides](documents/vegetation-4.pdf)
+
+[script](documents/session-4.R)
+
+# Session 5
+
+Description will be done soon.
+
+[slides](documents/vegetation-5.pdf)
+
+[script](documents/session-5.R)
