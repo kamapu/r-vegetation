@@ -4,19 +4,108 @@ title: People
 
 # Trainers
 
+:::: {.columns}
+
+::: {.column width="70%"}
+
 **Miguel Alvarez**
 
-Biosketch
+Data scientist and trainer at [Fraunhofer FIT](https://www.fit.fraunhofer.de/).
+Long term experience as vegetation ecologist doing field research in Eastern Africa and South America.
+Main topics of research are wetlands ecology, biological invasions, syntaxonomic classifications and vegetation-plot databases.
 
+
+:::
+
+::: {.column width="30%"}
+
+![](images/profile-miguel.png)
+
+:::
+
+::::
+
+</br>
+
+:::: {.columns}
+
+::: {.column width="70%"}
 
 **Marius Bottin**
 
-Biosketch
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
+:::
+
+::: {.column width="30%"}
+
+![](images/profile-hacker.png)
+
+:::
+
+::::
+
+</br>
+
+:::: {.columns}
+
+::: {.column width="70%"}
 
 **João Pedro Costa Elias**
 
-Biosketch
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+:::
+
+::: {.column width="30%"}
+
+![](images/profile-hacker.png)
+
+:::
+
+::::
+
+</br>
+
 
 # Coordination
 
+:::: {.columns}
+
+::: {.column width="70%"}
+
+**Glenda Mendieta**
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+:::
+
+::: {.column width="30%"}
+
+![](images/profile-hacker.png)
+
+:::
+
+::::
+
+</br>
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+**Gabriella Damasceno**
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
+:::
+
+::: {.column width="30%"}
+
+![](images/profile-hacker.png)
+
+:::
+
+::::
+
+</br>
