@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ::: {.column width="30%"}
 
-![](images/profile-hacker.png)
+![](images/profile-glenda.png)
 
 :::
 
