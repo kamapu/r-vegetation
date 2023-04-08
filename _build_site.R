@@ -49,6 +49,7 @@ file.copy(from = Files, to = "documents", overwrite = TRUE)
 # Build the page ----
 quarto_render()
 ## quarto_preview(port = "4200", host = "localhost")
+## browseURL("https://localhost:4200/")
 
 # Commit changes ----
 system(command = paste(c(

@@ -10,10 +10,11 @@ title: People
 
 **Miguel Alvarez**
 
-Data scientist and trainer at [Fraunhofer FIT](https://www.fit.fraunhofer.de/).
-Long term experience as vegetation ecologist doing field research in Eastern Africa and South America.
-Main topics of research are wetlands ecology, biological invasions, syntaxonomic classifications and vegetation-plot databases.
-
+Data scientist and trainer at [Fraunhofer
+FIT](https://www.fit.fraunhofer.de/), Germany. Long term experience as
+vegetation ecologist doing field research in Eastern Africa and South America.
+Main topics of research are wetlands ecology, biological invasions, syntaxonomic
+classifications and vegetation-plot databases.
 
 :::
 
@@ -33,13 +34,17 @@ Main topics of research are wetlands ecology, biological invasions, syntaxonomic
 
 **Marius Bottin**
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Independent researcher based in Bogotá, Colombia. Data scientist and ecologist
+working on biodiversity patterns mainly in highland tropical ecosystems.
+Currently working on data management and analysis of large multi-taxon data
+sets. Chair of the "Latin-America and the Caribbean" section of the
+International Association for Vegetation Science.
 
 :::
 
 ::: {.column width="30%"}
 
-![](images/profile-hacker.png)
+![](images/profile-marius.png)
 
 :::
 

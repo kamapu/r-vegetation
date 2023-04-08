@@ -3,3 +3,7 @@ title: Blog
 ---
 
 Here is the collection of submitted homeworks resolved by the participants.
+
+![](images/dalle-workers.jpg)
+
+*Credits of the image:* [DALL-E 2](https://openai.com/product/dall-e-2)
