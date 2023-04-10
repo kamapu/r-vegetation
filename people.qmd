@@ -34,11 +34,9 @@ classifications and vegetation-plot databases.
 
 **Marius Bottin**
 
-Independent researcher based in Bogotá, Colombia. Data scientist and ecologist
-working on biodiversity patterns mainly in highland tropical ecosystems.
-Currently working on data management and analysis of large multi-taxon data
-sets. Chair of the "Latin-America and the Caribbean" section of the
-International Association for Vegetation Science.
+Independent researcher based in Bogotá, Colombia. Data scientist and ecologist working on biodiversity patterns mainly in highland tropical ecosystems.
+Currently working on data management and analysis of large multi-taxon data sets.
+Chair of the "Latin-America and the Caribbean" section of the International Association for Vegetation Science.
 
 :::
 
@@ -58,13 +56,16 @@ International Association for Vegetation Science.
 
 **João Pedro Costa Elias**
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Ecologist and data scientist based in Brazil, MSc. in Environmental Science.
+Currently working with a database of Neotropical plant species (EpIG-DB) as part
+of a PhD thesis, investigating climate and anthropic factors explaining the
+actual patterns of biodiversity.
 
 :::
 
 ::: {.column width="30%"}
 
-![](images/profile-hacker.png)
+![](images/profile-joao.png)
 
 :::
 
