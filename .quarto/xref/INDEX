@@ -19,5 +19,11 @@
   },
   "blog.qmd": {
     "blog.html": "9b9c4f61"
+  },
+  "datasets.qmd": {
+    "datasets.html": "75690084"
+  },
+  "exercises.qmd": {
+    "exercises.html": "a7accc2b"
   }
 }

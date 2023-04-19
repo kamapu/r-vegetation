@@ -1,0 +1,41 @@
+---
+title: Exercises
+---
+
+
+# Session 1
+
+## Descriptive Data Assessment
+
+**Task:** Produce an *html_document* with a description of the data set `iris`
+including following sections at least:
+
+- About the Data Set (how was the data collected?).
+- Variables (meaning of each variable including units when applicable)
+- Visualization (Discuss some statistics and graphics including the code to
+  produce it).
+
+**Alternative:** You can use an own data set, instead.
+
+**Trained Skills:** 
+
+- Confidence using the `Markdown` language to produce text content.
+- Clear report on data source.
+- Basic knowledge on statistics.
+- Proper use of `R` to produce statistics and graphics.
+
+## Fake Wikipedia Entry
+
+**Task:** Select an article from [Wikipedia](https://en.wikipedia.org/) of your
+preference and:
+
+- Copy the text content into an own Rmarkdown document.
+- Format the content using `Markdown`.
+
+In this exercise you will attempt to resemble the original article's format as
+much as possible (title, sections, sub-sections,   hyperreferences, images
+imported from Wikipedia Commons, etc.).
+
+**Trained Skills:**
+
+- Confident use of the language `Markdown`.

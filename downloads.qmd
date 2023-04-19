@@ -4,11 +4,13 @@ title: Downloads
 
 # Installing Software and Packages
 
-A list of links to the required software is [here](in-construction.qmd).
+A list of links to the required software is
+[here](documents/installing-software.pdf).
 
 Once you mastered to get your system running, you will need to install some
 packages in **R**.
-For it, use [following instructions](in-construction.qmd).
+For it, run [following skript](documents/installing-packages.R) in your R
+session.
 
 # Download Data
 

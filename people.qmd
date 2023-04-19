@@ -82,7 +82,11 @@ actual patterns of biodiversity.
 
 **Glenda Mendieta**
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+I am ecologist and postdoctoral fellow at [Philipps Marburg
+University](https://www.uni-marburg.de/), Germany. I use vascular epiphytes to
+understand Neotropical diversity and aid in regional conservation
+prioritisation. I am part of the steering committees for the ecoinformatics and
+LAC sections at the International Association for Vegetation Science (IAVS).
 
 :::
 

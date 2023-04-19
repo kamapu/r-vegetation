@@ -27,6 +27,12 @@ Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
 file.copy(from = Files, to = "documents", overwrite = TRUE)
 
 # Installation Instructions ----
+Files <- file.path(Repo, "further-documents", "installing-software.Rmd")
+
+for(i in Files) render(i)
+
+Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
+file.copy(from = Files, to = "documents", overwrite = TRUE)
 
 ## # Reference List ----
 ## Refs <- read_ods(file.path(Repo, "downloads", "bib_references.ods"))
