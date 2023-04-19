@@ -19,7 +19,9 @@ unlink("documents/course-data.zip")
 zip("documents/course-data.zip", Files, mode = "cherry-pick")
 
 # Program ----
-Files <- file.path(Repo, "course-program", "program-sessions.Rmd")
+Files <- file.path(Repo, "course-program", c(
+        "program-sessions.Rmd",
+        "screenplay.Rmd"))
 
 for(i in Files) render(i)
 
@@ -50,6 +52,11 @@ Files <- list.files(file.path(Repo, "slides"), pattern = ".Rmd",
 for(i in Files) render(i)
 
 Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
+file.copy(from = Files, to = "documents", overwrite = TRUE)
+
+# Other files ----
+# TODO: Perhaps also installation script
+Files <- c(file.path(Repo, "handout/_book/vegetation_in_r.pdf"))
 file.copy(from = Files, to = "documents", overwrite = TRUE)
 
 # Build the page ----

@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: ["documents/screenplay.pdf","documents/vegetation_in_r.pdf"]
   output-dir: docs
   preview: 
     port: 4200
@@ -34,6 +35,3 @@ format:
     theme: litera
     css: styles.css
     toc: true
-
-
-
