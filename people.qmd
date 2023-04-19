@@ -106,13 +106,17 @@ LAC sections at the International Association for Vegetation Science (IAVS).
 
 **Gabriella Damasceno**
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+Applied ecologist with training in the management of tropical savannas as both,
+pristine and degraded ecosystems. Currently coordinating the database
+[sPlot](https://www.idiv.de/en/splot.html) and exploring how big data could help
+ecologists to answer applied questions about the conservation, management and
+restoration of plant communities.
 
 :::
 
 ::: {.column width="30%"}
 
-![](images/profile-hacker.png)
+![](images/profile-gabriella.png)
 
 :::
 
