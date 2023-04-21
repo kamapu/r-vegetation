@@ -1,0 +1,33 @@
+---
+title: Cheat Sheets
+author: Miguel Alvarez
+date: '2023-04-22'
+date-modified: '`r Sys.Date()`'
+categories:
+  - support
+description: |
+  | A collection of Cheat Sheets for this workshop.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+This list of cheat sheets may be a good help, especially for beginners in the
+work with **R** and **RMarkdown**.
+
+- [Short's R Reference
+  Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+- [The R Graph Gallery](https://r-graph-gallery.com/)
+- [R Color
+  Chart](https://rstudio-pubs-static.s3.amazonaws.com/3486_79191ad32cf74955b4502b8530aad627.html)
+- [Data tidying with `tidyr` Cheat
+  Sheet](https://posit.co/wp-content/uploads/2022/10/tidyr.pdf)
+- [`knitr` Reference
+  Card](https://cran.r-project.org/web/packages/knitr/vignettes/knitr-refcard.pdf)
+- [R Markdown Cheat
+  Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+- [Interaktive Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Code Chunk Options for knitr and Rmarkdown](https://yihui.org/knitr/options/)
+- [The Carpentries Glosario](https://glosario.carpentries.org/)
