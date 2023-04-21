@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Here is the collection of submitted homeworks resolved by the participants.\n\nCredits of the image: DALL-E 2"
+    "text": "Cheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -47,6 +47,13 @@
     "title": "Exercises",
     "section": "",
     "text": "Task: Produce an html_document with a description of the data set iris including following sections at least:\n\nAbout the Data Set (how was the data collected?).\nVariables (meaning of each variable including units when applicable)\nVisualization (Discuss some statistics and graphics including the code to produce it).\n\nAlternative: You can use an own data set, instead.\nTrained Skills:\n\nConfidence using the Markdown language to produce text content.\nClear report on data source.\nBasic knowledge on statistics.\nProper use of R to produce statistics and graphics.\n\n\n\n\nTask: Select an article from Wikipedia of your preference and:\n\nCopy the text content into an own Rmarkdown document.\nFormat the content using Markdown.\n\nIn this exercise you will attempt to resemble the original article’s format as much as possible (title, sections, sub-sections, hyperreferences, images imported from Wikipedia Commons, etc.).\nTrained Skills:\n\nConfident use of the language Markdown."
+  },
+  {
+    "objectID": "posts/cheatsheets/post.html",
+    "href": "posts/cheatsheets/post.html",
+    "title": "Cheat Sheets",
+    "section": "",
+    "text": "This list of cheat sheets may be a good help, especially for beginners in the work with R and RMarkdown.\n\nShort’s R Reference Card\nThe R Graph Gallery\nR Color Chart\nData tidying with tidyr Cheat Sheet\nknitr Reference Card\nR Markdown Cheat Sheet\nInteraktive Markdown Tutorial\nCode Chunk Options for knitr and Rmarkdown\nThe Carpentries Glosario"
   },
   {
     "objectID": "sessions.html",

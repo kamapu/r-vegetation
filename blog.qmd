@@ -1,9 +1,13 @@
 ---
 title: Blog
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
-Here is the collection of submitted homeworks resolved by the participants.
-
-![](images/dalle-workers.jpg)
-
-*Credits of the image:* [DALL-E 2](https://openai.com/product/dall-e-2)
+<!--
+For more details visit
+https://quarto.org/docs/websites/website-blog.html
+-->

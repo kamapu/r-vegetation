@@ -28,5 +28,11 @@
   },
   "documents/my_markdown.Rmd": {
     "my_markdown.html": "7e029c78"
+  },
+  "posts/new_blog_post/post.qmd": {
+    "post.html": "3833b7b7"
+  },
+  "posts/cheatsheets/post.qmd": {
+    "post.html": "58d112c0"
   }
 }
