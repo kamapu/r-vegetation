@@ -54,6 +54,10 @@ for(i in Files) render(i)
 Files <- sub(".Rmd", ".pdf", Files, fixed = TRUE)
 file.copy(from = Files, to = "documents", overwrite = TRUE)
 
+# RSessions ----
+Files <- list.files(file.path(Repo, "r-sessions"), full.names = TRUE)
+file.copy(from = Files, to = "documents", overwrite = TRUE)
+
 # Other files ----
 # TODO: Perhaps also installation script
 Files <- c(file.path(Repo, "handout/_book/vegetation_in_r.pdf"))

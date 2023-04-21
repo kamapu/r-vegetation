@@ -25,5 +25,8 @@
   },
   "exercises.qmd": {
     "exercises.html": "a7accc2b"
+  },
+  "documents/my_markdown.Rmd": {
+    "my_markdown.html": "7e029c78"
   }
 }

@@ -9,11 +9,11 @@ methods.
 This session includes a brief introduction on [**R
 Markdown**](https://rmarkdown.rstudio.com/) and taxonomic resolution.
 
-[slides](documents/vegetation-1.pdf)
+[slides](documents/vegetation-1.pdf)\
+[script](documents/session-1.R)\
+[RMarkdown script]("documents/my_markdown.Rmd")
 
 <!--
-
-[script](documents/session-1.R)
 
 # Session 2
 
