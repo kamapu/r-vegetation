@@ -11,7 +11,8 @@ Markdown**](https://rmarkdown.rstudio.com/) and taxonomic resolution.
 
 [slides](documents/vegetation-1.pdf)\
 [script](documents/session-1.R)\
-[RMarkdown script]("documents/my_markdown.Rmd")
+[RMarkdown
+script](https://raw.githubusercontent.com/kamapu/r-vegetation/master/documents/my_markdown.Rmd)
 
 <!--
 
