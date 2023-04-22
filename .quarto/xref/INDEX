@@ -34,5 +34,8 @@
   },
   "posts/cheatsheets/post.qmd": {
     "post.html": "58d112c0"
+  },
+  "posts/cheatsheets/index.qmd": {
+    "index.html": "aa007c78"
   }
 }
