@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Descriptive Data Assessment\n\n\n\n\n\n\n\nhomework\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nhomework\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
+    "text": "Descriptive Data Assessment\n\n\n\n\n\n\n\nhomework\n\n\nsession 1\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nhomework\n\n\nsession 1\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -49,11 +49,11 @@
     "text": "Task: Produce an html_document with a description of the data set iris including following sections at least:\n\nAbout the Data Set (how was the data collected?).\nVariables (meaning of each variable including units when applicable)\nVisualization (Discuss some statistics and graphics including the code to produce it).\n\nAlternative: You can use an own data set, instead.\nTrained Skills:\n\nConfidence using the Markdown language to produce text content.\nClear report on data source.\nBasic knowledge on statistics.\nProper use of R to produce statistics and graphics.\n\n\n\n\nTask: Select an article from Wikipedia of your preference and:\n\nCopy the text content into an own Rmarkdown document.\nFormat the content using Markdown.\n\nIn this exercise you will attempt to resemble the original article’s format as much as possible (title, sections, sub-sections, hyperreferences, images imported from Wikipedia Commons, etc.).\nTrained Skills:\n\nConfident use of the language Markdown."
   },
   {
-    "objectID": "exercises.html#description-of-a-species",
-    "href": "exercises.html#description-of-a-species",
+    "objectID": "exercises.html#species-description",
+    "href": "exercises.html#species-description",
     "title": "Exercises",
-    "section": "Description of a Species",
-    "text": "Description of a Species\nTask: Select a species of your preference and collect information regarding its taxonomy, anatomy and some pictures. Produce a document describing this species, which includes following information:\n\nWhy did you selected this species?\nThe code used to create the taxlist object with its taxonomy.\nA description of its anatomy, ecology and distribution including some pictures.\n\nAlternatives: You can describe an organism other than plants.\nTrained Skills:\n\nManagement of taxonomic lists using taxlist.\nFormat the content using Markdown."
+    "section": "Species Description",
+    "text": "Species Description\nTask: Select a species of your preference and collect information regarding its taxonomy, anatomy and some pictures. Produce a document describing this species, which includes following information:\n\nWhy did you selected this species?\nThe code used to create the taxlist object with its taxonomy.\nA description of its anatomy, ecology and distribution including some pictures.\n\nAlternatives: You can describe an organism other than plants.\nTrained Skills:\n\nManagement of taxonomic lists using taxlist.\nFormat the content using Markdown."
   },
   {
     "objectID": "posts/cheatsheets/index.html",
@@ -103,12 +103,5 @@
     "title": "Downloads",
     "section": "",
     "text": "Installing Software and Packages\nA list of links to the required software is here.\nOnce you mastered to get your system running, you will need to install some packages in R. For it, run following skript in your R session.\n\n\nDownload Data\nA zip file with the data sets required for the R sessions can be downloaded here.\nAlternatively, you load the data in your working directory by running following code in your R session:\n\ndownload.file(\n    url = \"https://kamapu.github.io/r-vegetation/documents/course-data.zip\",\n    destfile = \"course-data.zip\", method = \"curl\")\nunzip(\"course-data.zip\", overwrite = TRUE)\nunlink(\"course-data.zip\")"
-  },
-  {
-    "objectID": "exercises.html#species-description",
-    "href": "exercises.html#species-description",
-    "title": "Exercises",
-    "section": "Species Description",
-    "text": "Species Description\nTask: Select a species of your preference and collect information regarding its taxonomy, anatomy and some pictures. Produce a document describing this species, which includes following information:\n\nWhy did you selected this species?\nThe code used to create the taxlist object with its taxonomy.\nA description of its anatomy, ecology and distribution including some pictures.\n\nAlternatives: You can describe an organism other than plants.\nTrained Skills:\n\nManagement of taxonomic lists using taxlist.\nFormat the content using Markdown."
   }
 ]

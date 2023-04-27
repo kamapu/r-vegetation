@@ -6,6 +6,7 @@ date-modified: '`r Sys.Date()`'
 image: iris-stats.png
 categories:
   - homework
+  - session 1
 description: |
   | Statistical descriptions of the data set iris.
 execute: 

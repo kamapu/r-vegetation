@@ -6,6 +6,7 @@ date-modified: '`r Sys.Date()`'
 image: iris-wikipedia.png
 categories:
   - homework
+  - session 1
 description: |
   | Replicated Wikipedia entries formatted with Rmarkdown.
 execute: 
