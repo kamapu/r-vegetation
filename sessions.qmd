@@ -14,18 +14,19 @@ Markdown**](https://rmarkdown.rstudio.com/) and taxonomic resolution.
 [RMarkdown
 script](https://raw.githubusercontent.com/kamapu/r-vegetation/master/documents/my_markdown.Rmd)
 
-<!--
+
 
 # Session 2
 
 We dedicate this session to data formats and arrangements.
 Here we will introduce to the
-packages
-[`taxlist`](https://docs.ropensci.org/taxlist/) and
-[`vegtable`](http://kamapu.github.io/vegtable/), which are suitable for
-managing taxonomic information and vegetation-plot data sets, respectively.
+package
+[`taxlist`](https://docs.ropensci.org/taxlist/), which is suitable for
+managing taxonomic information in R.
 
 [slides](documents/vegetation-2.pdf)
+
+<!--
 
 [script](documents/session-2.R)
 

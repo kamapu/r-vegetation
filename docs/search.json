@@ -60,7 +60,7 @@
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nscript\nRMarkdown script"
+    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nscript\nRMarkdown script\n\n\nSession 2\nWe dedicate this session to data formats and arrangements. Here we will introduce to the package taxlist, which is suitable for managing taxonomic information in R.\nslides"
   },
   {
     "objectID": "downloads.html",
