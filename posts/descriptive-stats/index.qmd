@@ -1,0 +1,24 @@
+---
+title: Descriptive Data Assessment
+author: workshop participants
+date: '2023-04-27'
+date-modified: '`r Sys.Date()`'
+image: iris-stats.png
+categories:
+  - homework
+description: |
+  | Statistical descriptions of the data set iris.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+Here are the documents submitted for the description of data sets.
+The homework is based on the data set `iris` but it may be an own data set.
+
+
+## Submitted Documents
+
+[Lucrecia Lipoma](lucrecia-lipoma.html)

@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Cheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
+    "text": "Descriptive Data Assessment\n\n\n\n\n\n\n\nhomework\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nhomework\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -54,6 +54,34 @@
     "title": "Cheat Sheets",
     "section": "",
     "text": "This list of cheat sheets may be a good help, especially for beginners in the work with R and RMarkdown.\n\nShort’s R Reference Card\nThe R Graph Gallery\nR Color Chart\nData tidying with tidyr Cheat Sheet\nknitr Reference Card\nR Markdown Cheat Sheet\nInteraktive Markdown Tutorial\nCode Chunk Options for knitr and Rmarkdown\nThe Carpentries Glosario"
+  },
+  {
+    "objectID": "posts/descriptive-stats/index.html",
+    "href": "posts/descriptive-stats/index.html",
+    "title": "Descriptive Data Assessment",
+    "section": "",
+    "text": "Here are the documents submitted for the description of data sets. The homework is based on the data set iris but it may be an own data set."
+  },
+  {
+    "objectID": "posts/descriptive-stats/index.html#submitted-documents",
+    "href": "posts/descriptive-stats/index.html#submitted-documents",
+    "title": "Descriptive Data Assessment",
+    "section": "Submitted Documents",
+    "text": "Submitted Documents\nLucrecia Lipoma"
+  },
+  {
+    "objectID": "posts/fake-wikipedia/index.html",
+    "href": "posts/fake-wikipedia/index.html",
+    "title": "Fake Wikipedia Entry",
+    "section": "",
+    "text": "Here some of the Wikipedia entries formatted with RMarkdown."
+  },
+  {
+    "objectID": "posts/fake-wikipedia/index.html#submitted-documents",
+    "href": "posts/fake-wikipedia/index.html#submitted-documents",
+    "title": "Fake Wikipedia Entry",
+    "section": "Submitted Documents",
+    "text": "Submitted Documents\nLucrecia Lipoma"
   },
   {
     "objectID": "sessions.html",

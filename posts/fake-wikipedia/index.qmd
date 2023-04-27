@@ -1,0 +1,22 @@
+---
+title: Fake Wikipedia Entry
+author: workshop participants
+date: '2023-04-27'
+date-modified: '`r Sys.Date()`'
+image: iris-wikipedia.png
+categories:
+  - homework
+description: |
+  | Replicated Wikipedia entries formatted with Rmarkdown.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+Here some of the Wikipedia entries formatted with RMarkdown.
+
+## Submitted Documents
+
+[Lucrecia Lipoma](lucrecia-lipoma.html)

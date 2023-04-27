@@ -2,6 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/descriptive-stats/index.html",
+      "/posts/fake-wikipedia/index.html",
       "/posts/cheatsheets/index.html"
     ]
   }

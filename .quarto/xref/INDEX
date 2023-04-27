@@ -37,5 +37,11 @@
   },
   "posts/cheatsheets/index.qmd": {
     "index.html": "aa007c78"
+  },
+  "posts/descriptive-stats/index.qmd": {
+    "index.html": "959986c5"
+  },
+  "posts/fake-wikipedia/index.qmd": {
+    "index.html": "5de3592e"
   }
 }

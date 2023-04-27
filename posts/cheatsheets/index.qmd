@@ -3,6 +3,7 @@ title: Cheat Sheets
 author: Miguel Alvarez
 date: '2023-04-22'
 date-modified: '`r Sys.Date()`'
+image: tidyr.png
 categories:
   - support
 description: |

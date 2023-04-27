@@ -63,11 +63,10 @@ file.copy(from = Files, to = "documents", overwrite = TRUE)
 Files <- c(file.path(Repo, "handout/_book/vegetation_in_r.pdf"))
 file.copy(from = Files, to = "documents", overwrite = TRUE)
 
-# Build the page ----
+# Build the page and preview ----
 quarto_render()
-## quarto_preview(port = "4200", host = "localhost")
-## browseURL("https://localhost:4200/")
-## quarto_preview_stop()
+quarto_preview()
+quarto_preview_stop()
 
 # Commit changes ----
 system(command = paste(c(
