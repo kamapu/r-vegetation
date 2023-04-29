@@ -65,6 +65,16 @@ file.copy(from = Files, to = "documents", overwrite = TRUE)
 
 # Build the page and preview ----
 quarto_render()
+
+# Block dealing with Rmd files
+Files <- list.files(file.path("docs", "documents"), full.names = TRUE)
+Files <- Files[grepl("_session", Files, fixed = TRUE)]
+Files_new <- gsub("_session", "session", Files, fixed = TRUE)
+file.rename(from = Files, to = Files_new)
+Site <- readLines(file.path("docs", "sessions.html"))
+Site <- gsub("_session", "session", Site, fixed = TRUE)
+writeLines(Site, file.path("docs", "sessions.html"))
+
 quarto_preview()
 quarto_preview_stop()
 

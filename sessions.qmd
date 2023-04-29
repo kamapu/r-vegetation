@@ -10,10 +10,8 @@ This session includes a brief introduction on [**R
 Markdown**](https://rmarkdown.rstudio.com/) and taxonomic resolution.
 
 [slides](documents/vegetation-1.pdf)\
-[script](documents/session-1.R)\
-[RMarkdown
-script](https://raw.githubusercontent.com/kamapu/r-vegetation/master/documents/my_markdown.Rmd)
-
+[R script](documents/session-1.R)\
+[RMarkdown script](documents/_session-1.Rmd)
 
 
 # Session 2
@@ -24,11 +22,11 @@ package
 [`taxlist`](https://docs.ropensci.org/taxlist/), which is suitable for
 managing taxonomic information in R.
 
-[slides](documents/vegetation-2.pdf)
+[slides](documents/vegetation-2.pdf)\
+[R script](documents/session-2.R)\
+[RMarkdown script](documents/_session-2.Rmd)
 
 <!--
-
-[script](documents/session-2.R)
 
 # Session 3
 

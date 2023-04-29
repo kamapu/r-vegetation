@@ -22,4 +22,6 @@ The homework is based on the data set `iris` but it may be an own data set.
 
 ## Submitted Documents
 
-[Lucrecia Lipoma](lucrecia-lipoma.html)
+[Lucrecia Lipoma](lucrecia-lipoma.html)\
+[Virginia Palchetti](virginia-palchetti.html)\
+[Diana Bonilla](diana-bonilla.html)

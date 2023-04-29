@@ -20,4 +20,5 @@ Here some of the Wikipedia entries formatted with RMarkdown.
 
 ## Submitted Documents
 
-[Lucrecia Lipoma](lucrecia-lipoma.html)
+[Lucrecia Lipoma](lucrecia-lipoma.html)\
+[Virginia Palchetti](virginia-palchetti.html)

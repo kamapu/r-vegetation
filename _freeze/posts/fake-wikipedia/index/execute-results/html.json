@@ -1,7 +1,7 @@
 {
-  "hash": "d574c4800729604c922d89b4ec3066a0",
+  "hash": "33de19ef0a5fd4696e3f82f159798f65",
   "result": {
-    "markdown": "---\ntitle: Fake Wikipedia Entry\nauthor: workshop participants\ndate: '2023-04-27'\ndate-modified: '2023-04-27'\nimage: iris-wikipedia.png\ncategories:\n  - homework\ndescription: |\n  | Replicated Wikipedia entries formatted with Rmarkdown.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\nHere some of the Wikipedia entries formatted with RMarkdown.\n\n## Submitted Documents\n\n[Lucrecia Lipoma](lucrecia-lipoma.html)\n",
+    "markdown": "---\ntitle: Fake Wikipedia Entry\nauthor: workshop participants\ndate: '2023-04-27'\ndate-modified: '2023-04-29'\nimage: iris-wikipedia.png\ncategories:\n  - homework\n  - session 1\ndescription: |\n  | Replicated Wikipedia entries formatted with Rmarkdown.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\nHere some of the Wikipedia entries formatted with RMarkdown.\n\n## Submitted Documents\n\n[Lucrecia Lipoma](lucrecia-lipoma.html)\\\n[Virginia Palchetti](virginia-palchetti.html)\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

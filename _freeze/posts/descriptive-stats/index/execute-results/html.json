@@ -1,7 +1,7 @@
 {
-  "hash": "3307a3b198cfc5618d4f8aaf6c362ffd",
+  "hash": "a69e951d43842660d80e23cbcb75f186",
   "result": {
-    "markdown": "---\ntitle: Descriptive Data Assessment\nauthor: workshop participants\ndate: '2023-04-27'\ndate-modified: '2023-04-27'\nimage: iris-stats.png\ncategories:\n  - homework\ndescription: |\n  | Statistical descriptions of the data set iris.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\nHere are the documents submitted for the description of data sets.\nThe homework is based on the data set `iris` but it may be an own data set.\n\n\n## Submitted Documents\n\n[Lucrecia Lipoma](lucrecia-lipoma.html)\n",
+    "markdown": "---\ntitle: Descriptive Data Assessment\nauthor: workshop participants\ndate: '2023-04-27'\ndate-modified: '2023-04-29'\nimage: iris-stats.png\ncategories:\n  - homework\n  - session 1\ndescription: |\n  | Statistical descriptions of the data set iris.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\nHere are the documents submitted for the description of data sets.\nThe homework is based on the data set `iris` but it may be an own data set.\n\n\n## Submitted Documents\n\n[Lucrecia Lipoma](lucrecia-lipoma.html)\\\n[Virginia Palchetti](virginia-palchetti.html)\\\n[Diana Bonilla](diana-bonilla.html)\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

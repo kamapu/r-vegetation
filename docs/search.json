@@ -74,7 +74,7 @@
     "href": "posts/descriptive-stats/index.html#submitted-documents",
     "title": "Descriptive Data Assessment",
     "section": "Submitted Documents",
-    "text": "Submitted Documents\nLucrecia Lipoma"
+    "text": "Submitted Documents\nLucrecia Lipoma\nVirginia Palchetti\nDiana Bonilla"
   },
   {
     "objectID": "posts/fake-wikipedia/index.html",
@@ -88,14 +88,14 @@
     "href": "posts/fake-wikipedia/index.html#submitted-documents",
     "title": "Fake Wikipedia Entry",
     "section": "Submitted Documents",
-    "text": "Submitted Documents\nLucrecia Lipoma"
+    "text": "Submitted Documents\nLucrecia Lipoma\nVirginia Palchetti"
   },
   {
     "objectID": "sessions.html",
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nscript\nRMarkdown script\n\n\nSession 2\nWe dedicate this session to data formats and arrangements. Here we will introduce to the package taxlist, which is suitable for managing taxonomic information in R.\nslides"
+    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nR script\nRMarkdown script\n\n\nSession 2\nWe dedicate this session to data formats and arrangements. Here we will introduce to the package taxlist, which is suitable for managing taxonomic information in R.\nslides\nR script\nRMarkdown script"
   },
   {
     "objectID": "downloads.html",

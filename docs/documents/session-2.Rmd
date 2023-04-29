@@ -1,0 +1,41 @@
+---
+title: My second Rmarkdown Document
+author: Your Name
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    self_contained: true
+---
+
+# Some chunk options
+
+Carry out this code:
+
+```{r eval=FALSE}
+install.packages(taxlist)
+```
+
+In the next chunck, the code is not displayed.
+
+```{r echo=FALSE}
+plot(iris$Sepal.Length, iris$Sepal.Width)
+```
+
+Reproducible data assessment.
+
+# Inline chuncks
+
+```{r echo=FALSE}
+iris <- iris[, 1:3]
+```
+
+In the data set `iris` contains records for `r ncol(iris)` variables.
+
+```{r message=FALSE}
+library(taxlist)
+summary(Easplist, "papyrus")
+```
+
+The scientific name of papyrus is `r print_name(Easplist, 206)`.
+
