@@ -1,0 +1,43 @@
+---
+title: Species Description
+author: Miguel Alvarez
+date: '2023-04-28'
+date-modified: '`r Sys.Date()`'
+image: fuchsia.jpg
+categories:
+  - exercise
+  - session 2
+description: 
+  Using RMarkdown and taxlist for describing plant species and its taxonomic
+  classification.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+# Task
+
+Select a species of your preference and collect information regarding
+its taxonomy, anatomy and some pictures. Produce a document describing this
+species, which includes following information:
+
+- Why did you selected this species?
+- The code used to create the `taxlist` object with its taxonomy.
+- A description of its anatomy, ecology and distribution including some
+  pictures.
+
+# Alternatives
+
+You can describe an organism other than plants.
+
+# Trained Skills
+
+- Management of taxonomic lists using `taxlist`.
+- Format the content using `Markdown`.
+
+# Submitted Results
+
+No results yet submitted.

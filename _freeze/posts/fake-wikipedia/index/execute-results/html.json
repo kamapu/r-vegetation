@@ -1,7 +1,7 @@
 {
-  "hash": "33de19ef0a5fd4696e3f82f159798f65",
+  "hash": "535f48f65789589f3f625926b7bb7b58",
   "result": {
-    "markdown": "---\ntitle: Fake Wikipedia Entry\nauthor: workshop participants\ndate: '2023-04-27'\ndate-modified: '2023-04-29'\nimage: iris-wikipedia.png\ncategories:\n  - homework\n  - session 1\ndescription: |\n  | Replicated Wikipedia entries formatted with Rmarkdown.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\nHere some of the Wikipedia entries formatted with RMarkdown.\n\n## Submitted Documents\n\n[Lucrecia Lipoma](lucrecia-lipoma.html)\\\n[Virginia Palchetti](virginia-palchetti.html)\n",
+    "markdown": "---\ntitle: Fake Wikipedia Entry\nauthor: Miguel Alvarez\ndate: '2023-04-27'\ndate-modified: '2023-04-30'\nimage: iris-wikipedia.png\ncategories:\n  - exercise\n  - session 1\ndescription:\n  Replicated Wikipedia entries formatted with Rmarkdown.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\n# Task\n\nSelect an article from [Wikipedia](https://en.wikipedia.org/) of your\npreference and:\n\n- Copy the text content into an own Rmarkdown document.\n- Format the content using `Markdown`.\n\nIn this exercise you will attempt to resemble the original article's format as\nmuch as possible (title, sections, sub-sections,   hyperreferences, images\nimported from Wikipedia Commons, etc.).\n\n\n# Trained Skills\n\n- Confident use of the language `Markdown`.\n\n\n# Submitted Results\n\n[Lucrecia Lipoma](lucrecia-lipoma.html)\\\n[Virginia Palchetti](virginia-palchetti.html)\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

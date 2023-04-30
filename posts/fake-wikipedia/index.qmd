@@ -1,14 +1,14 @@
 ---
 title: Fake Wikipedia Entry
-author: workshop participants
+author: Miguel Alvarez
 date: '2023-04-27'
 date-modified: '`r Sys.Date()`'
 image: iris-wikipedia.png
 categories:
-  - homework
+  - exercise
   - session 1
-description: |
-  | Replicated Wikipedia entries formatted with Rmarkdown.
+description:
+  Replicated Wikipedia entries formatted with Rmarkdown.
 execute: 
   message: false
   warning: false
@@ -16,9 +16,25 @@ editor_options:
   chunk_output_type: console
 ---
 
-Here some of the Wikipedia entries formatted with RMarkdown.
+# Task
 
-## Submitted Documents
+Select an article from [Wikipedia](https://en.wikipedia.org/) of your
+preference and:
+
+- Copy the text content into an own Rmarkdown document.
+- Format the content using `Markdown`.
+
+In this exercise you will attempt to resemble the original article's format as
+much as possible (title, sections, sub-sections,   hyperreferences, images
+imported from Wikipedia Commons, etc.).
+
+
+# Trained Skills
+
+- Confident use of the language `Markdown`.
+
+
+# Submitted Results
 
 [Lucrecia Lipoma](lucrecia-lipoma.html)\
 [Virginia Palchetti](virginia-palchetti.html)

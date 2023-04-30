@@ -6,8 +6,8 @@ date-modified: '`r Sys.Date()`'
 image: tidyr.png
 categories:
   - support
-description: |
-  | A collection of Cheat Sheets for this workshop.
+description:
+  A collection of Cheat Sheets for this workshop.
 execute: 
   message: false
   warning: false

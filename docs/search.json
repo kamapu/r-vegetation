@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Descriptive Data Assessment\n\n\n\n\n\n\n\nhomework\n\n\nsession 1\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nhomework\n\n\nsession 1\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nworkshop participants\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
+    "text": "Species Description\n\n\n\n\n\n\n\nexercise\n\n\nsession 2\n\n\n\n\nUsing RMarkdown and taxlist for describing plant species and its taxonomic classification.\n\n\n\n\n\n\nApr 28, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nDescriptive Data Assessment\n\n\n\n\n\n\n\nexercise\n\n\nsession 1\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nexercise\n\n\nsession 1\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -63,32 +63,25 @@
     "text": "This list of cheat sheets may be a good help, especially for beginners in the work with R and RMarkdown.\n\nShort’s R Reference Card\nThe R Graph Gallery\nR Color Chart\nData tidying with tidyr Cheat Sheet\nknitr Reference Card\nR Markdown Cheat Sheet\nInteraktive Markdown Tutorial\nCode Chunk Options for knitr and Rmarkdown\nThe Carpentries Glosario"
   },
   {
+    "objectID": "posts/species-description/index.html",
+    "href": "posts/species-description/index.html",
+    "title": "Species Description",
+    "section": "",
+    "text": "Task\nSelect a species of your preference and collect information regarding its taxonomy, anatomy and some pictures. Produce a document describing this species, which includes following information:\n\nWhy did you selected this species?\nThe code used to create the taxlist object with its taxonomy.\nA description of its anatomy, ecology and distribution including some pictures.\n\n\n\nAlternatives\nYou can describe an organism other than plants.\n\n\nTrained Skills\n\nManagement of taxonomic lists using taxlist.\nFormat the content using Markdown.\n\n\n\nSubmitted Results\nNo results yet submitted."
+  },
+  {
     "objectID": "posts/descriptive-stats/index.html",
     "href": "posts/descriptive-stats/index.html",
     "title": "Descriptive Data Assessment",
     "section": "",
-    "text": "Here are the documents submitted for the description of data sets. The homework is based on the data set iris but it may be an own data set."
-  },
-  {
-    "objectID": "posts/descriptive-stats/index.html#submitted-documents",
-    "href": "posts/descriptive-stats/index.html#submitted-documents",
-    "title": "Descriptive Data Assessment",
-    "section": "Submitted Documents",
-    "text": "Submitted Documents\nLucrecia Lipoma\nVirginia Palchetti\nDiana Bonilla"
+    "text": "Task\nProduce an html_document with a description of the data set iris including following sections at least:\n\nAbout the Data Set (how was the data collected?).\nVariables (meaning of each variable including units when applicable)\nVisualization (Discuss some statistics and graphics including the code to produce it).\n\n\n\nAlternative\nYou can use an own data set, instead.\n\n\nTrained Skills\n\nConfidence using the Markdown language to produce text content.\nClear report on data source.\nBasic knowledge on statistics.\nProper use of R to produce statistics and graphics.\n\n\n\nSubmitted Results\nLucrecia Lipoma\nVirginia Palchetti\nDiana Bonilla"
   },
   {
     "objectID": "posts/fake-wikipedia/index.html",
     "href": "posts/fake-wikipedia/index.html",
     "title": "Fake Wikipedia Entry",
     "section": "",
-    "text": "Here some of the Wikipedia entries formatted with RMarkdown."
-  },
-  {
-    "objectID": "posts/fake-wikipedia/index.html#submitted-documents",
-    "href": "posts/fake-wikipedia/index.html#submitted-documents",
-    "title": "Fake Wikipedia Entry",
-    "section": "Submitted Documents",
-    "text": "Submitted Documents\nLucrecia Lipoma\nVirginia Palchetti"
+    "text": "Task\nSelect an article from Wikipedia of your preference and:\n\nCopy the text content into an own Rmarkdown document.\nFormat the content using Markdown.\n\nIn this exercise you will attempt to resemble the original article’s format as much as possible (title, sections, sub-sections, hyperreferences, images imported from Wikipedia Commons, etc.).\n\n\nTrained Skills\n\nConfident use of the language Markdown.\n\n\n\nSubmitted Results\nLucrecia Lipoma\nVirginia Palchetti"
   },
   {
     "objectID": "sessions.html",

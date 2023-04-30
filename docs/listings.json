@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/species-description/index.html",
       "/posts/descriptive-stats/index.html",
       "/posts/fake-wikipedia/index.html",
       "/posts/cheatsheets/index.html"
