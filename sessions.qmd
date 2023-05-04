@@ -26,15 +26,17 @@ managing taxonomic information in R.
 [R script](documents/session-2.R)\
 [RMarkdown script](documents/_session-2.Rmd)
 
-<!--
 
 # Session 3
 
 This session is about assessing environmental and taxonomic information at each
 vegetation-plot observation.
-Here, we will make use of some background on descriptive statistics.
+For that we will be introduced to the package
+[`vegtable`](http://kamapu.github.io/vegtable/).
 
 [slides](documents/vegetation-3.pdf)
+
+<!--
 
 [script](documents/session-3.R)
 
