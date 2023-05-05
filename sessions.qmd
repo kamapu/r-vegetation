@@ -34,7 +34,9 @@ vegetation-plot observation.
 For that we will be introduced to the package
 [`vegtable`](http://kamapu.github.io/vegtable/).
 
-[slides](documents/vegetation-3.pdf)
+[slides](documents/vegetation-3.pdf)\
+[R script](documents/session-3.R)\
+[RMarkdown script](documents/_notebook-session-3.Rmd)
 
 <!--
 
