@@ -1,0 +1,51 @@
+---
+title: Describing Vegetation-Plots
+author: Miguel Alvarez
+date: '2023-05-05'
+date-modified: '`r Sys.Date()`'
+#image: fuchsia.jpg
+categories:
+  - exercise
+  - session 3
+description: 
+  Describing data sets and plant communities by taxonomic attributes.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+# Task
+
+Import the data set **sanmartin1998.rds** into your R-Session and summary
+taxonomy and species attributes for each plot.
+
+Describe different plant communities according to those statistics.
+
+Do some descriptive statistics on the basis of taxonomic and environmental
+variables stored at `object@header`.
+
+Here a suggested code to import and explore the content of the object:
+
+```{r results="hide"}
+releves <- readRDS("sanmartin1998.rds")
+releves
+releves <- relation2header(vegtable = releves,
+    relation = "community_type")
+summary(as.factor(releves$community_name))
+```
+
+# Alternatives
+
+You can use other distributed data sets or own data formatted to vegtable.
+
+# Trained Skills
+
+- Understanding about data structure in `vegtable` objects.
+- Overview of taxonomic attributes stored in `taxlist` objects.
+
+# Submitted Results
+
+No submitted resuts yet.

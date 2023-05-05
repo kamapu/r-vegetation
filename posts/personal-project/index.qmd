@@ -1,0 +1,60 @@
+---
+title: Personal Project
+author: Miguel Alvarez
+date: '2023-05-05'
+date-modified: '`r Sys.Date()`'
+#image: fuchsia.jpg
+categories:
+  - exercise
+  - session 3
+  - session 4
+  - session 5
+description: 
+  A personal project applying descriptive statistics to own data.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+# Task
+
+Use own data or personal data to describe a research project in a Notebook.
+Be creative and attempt to use all learned skills.
+
+You can start with a skeleton of the main chapters and complement during the
+progress of the workshop.
+
+## Suggested Structure
+
+You can use the classical structure for publications on vegetation studies as
+follows:
+
+- Introduction
+  - Background
+  - Problem Statement
+- Study Site
+  - Location
+  - Bioclimatic Settings
+  - Geology/Soils
+- Methods
+  - Data/Sample Collection
+  - Lab assessments
+  - Statistical Analysis
+- Results/Discussion
+- Bibliographic References
+
+# Trained Skills
+
+- Advanced knowledge about the use of RMarkdown for reporting scientific results
+- Basic/advanced knowledge about management of taxonomic data and diversity
+  records in R
+- Basic/advanced knowledge about statistical assessment of diversity
+  information in R
+
+
+# Submitted Results
+
+No submitted resuts yet.
