@@ -1,0 +1,14 @@
+{
+  "hash": "d9654111804549bdf92d0833ff6f99c3",
+  "result": {
+    "markdown": "---\ntitle: Personal Project\nauthor: Miguel Alvarez\ndate: '2023-05-05'\ndate-modified: '2023-05-05'\n#image: fuchsia.jpg\ncategories:\n  - exercise\n  - session 3\n  - session 4\n  - session 5\ndescription: \n  A personal project applying descriptive statistics to own data.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\n\n# Task\n\nUse own data or personal data to describe a research project in a Notebook.\nBe creative and attempt to use all learned skills.\n\nYou can start with a skeleton of the main chapters and complement during the\nprogress of the workshop.\n\n## Suggested Structure\n\nYou can use the classical structure for publications on vegetation studies as\nfollows:\n\n- Introduction\n  - Background\n  - Problem Statement\n- Study Site\n  - Location\n  - Bioclimatic Settings\n  - Geology/Soils\n- Methods\n  - Data/Sample Collection\n  - Lab assessments\n  - Statistical Analysis\n- Results/Discussion\n- Bibliographic References\n\n# Trained Skills\n\n- Advanced knowledge about the use of RMarkdown for reporting scientific results\n- Basic/advanced knowledge about management of taxonomic data and diversity\n  records in R\n- Basic/advanced knowledge about statistical assessment of diversity\n  information in R\n\n\n# Submitted Results\n\nNo submitted resuts yet.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
