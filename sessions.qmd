@@ -11,7 +11,7 @@ Markdown**](https://rmarkdown.rstudio.com/) and taxonomic resolution.
 
 [slides](documents/vegetation-1.pdf)\
 [R script](documents/session-1.R)\
-[RMarkdown script](documents/_session-1.Rmd)
+[RMarkdown script](documents/_notebook-session-1.Rmd)
 
 
 # Session 2
@@ -24,7 +24,7 @@ managing taxonomic information in R.
 
 [slides](documents/vegetation-2.pdf)\
 [R script](documents/session-2.R)\
-[RMarkdown script](documents/_session-2.Rmd)
+[RMarkdown script](documents/_notebook-session-2.Rmd)
 
 
 # Session 3

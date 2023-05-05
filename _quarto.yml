@@ -21,8 +21,6 @@ website:
         text: Downloads
       - href: sessions.qmd
         text: Sessions
-      - href: exercises.qmd
-        text: Exercises
       - href: datasets.qmd
         text: Data Sets
       - href: blog.qmd
