@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/blog-collection/index.html",
       "/posts/ask-for-help/index.html",
       "/posts/personal-project/index.html",
       "/posts/describe-vegtable/index.html",

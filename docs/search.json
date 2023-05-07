@@ -18,7 +18,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Ask for Help\n\n\n\n\n\n\n\nsupport\n\n\n\n\nAlternative channels for solving issues.\n\n\n\n\n\n\nMay 7, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Project\n\n\n\n\n\n\n\nexercise\n\n\nsession 3\n\n\nsession 4\n\n\nsession 5\n\n\n\n\nA personal project applying descriptive statistics to own data.\n\n\n\n\n\n\nMay 5, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescribing Vegetation-Plots\n\n\n\n\n\n\n\nexercise\n\n\nsession 3\n\n\n\n\nDescribing data sets and plant communities by taxonomic attributes.\n\n\n\n\n\n\nMay 5, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nSpecies Description\n\n\n\n\n\n\n\nexercise\n\n\nsession 2\n\n\n\n\nUsing RMarkdown and taxlist for describing plant species and its taxonomic classification.\n\n\n\n\n\n\nApr 28, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nDescriptive Data Assessment\n\n\n\n\n\n\n\nexercise\n\n\nsession 1\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nexercise\n\n\nsession 1\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
+    "text": "Collection of Blog Posts\n\n\n\n\n\n\n\nsupport\n\n\n\n\nLinks to blog posts around the work with the packages taxlist and vegtable.\n\n\n\n\n\n\nMay 7, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAsk for Help\n\n\n\n\n\n\n\nsupport\n\n\n\n\nAlternative channels for solving issues.\n\n\n\n\n\n\nMay 7, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Project\n\n\n\n\n\n\n\nexercise\n\n\nsession 3\n\n\nsession 4\n\n\nsession 5\n\n\n\n\nA personal project applying descriptive statistics to own data.\n\n\n\n\n\n\nMay 5, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescribing Vegetation-Plots\n\n\n\n\n\n\n\nexercise\n\n\nsession 3\n\n\n\n\nDescribing data sets and plant communities by taxonomic attributes.\n\n\n\n\n\n\nMay 5, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nSpecies Description\n\n\n\n\n\n\n\nexercise\n\n\nsession 2\n\n\n\n\nUsing RMarkdown and taxlist for describing plant species and its taxonomic classification.\n\n\n\n\n\n\nApr 28, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nDescriptive Data Assessment\n\n\n\n\n\n\n\nexercise\n\n\nsession 1\n\n\n\n\nStatistical descriptions of the data set iris.\n\n\n\n\n\n\nApr 27, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nFake Wikipedia Entry\n\n\n\n\n\n\n\nexercise\n\n\nsession 1\n\n\n\n\nReplicated Wikipedia entries formatted with Rmarkdown.\n\n\n\n\n\n\nApr 27, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\nCheat Sheets\n\n\n\n\n\n\n\nsupport\n\n\n\n\nA collection of Cheat Sheets for this workshop.\n\n\n\n\n\n\nApr 22, 2023\n\n\nMiguel Alvarez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
@@ -33,6 +33,13 @@
     "title": "This page is under construction",
     "section": "",
     "text": "Credits of the image: DALL-E 2"
+  },
+  {
+    "objectID": "posts/blog-collection/index.html",
+    "href": "posts/blog-collection/index.html",
+    "title": "Collection of Blog Posts",
+    "section": "",
+    "text": "The next is a list of blog posts dealing with the work with taxlist and vegtable. Most of those examples may be reproducible an help to exercise the work with these packages.\n\nThe taxlist home page includes some examples working with the installed data set and links to vigenettes and documentation of functions.\nThe vegtable home page has also few examples for doing sub sets and mapping with leaflet.\nIn Basics on the work with vegetation-plots in vegtable there is a more extended explanation about taxlist and vegtable with one example.\nAnother extended explanation using data from Kenian forests is displayed in Introduction to the package vegtable\nOne of the newest posts is Vegetation of East African wetlands - Assessment using R and vegtable explaining the code used for a publication dealing with the classification of wetland vegetation in East Africa."
   },
   {
     "objectID": "posts/cheatsheets/index.html",

@@ -1,0 +1,39 @@
+---
+title: Collection of Blog Posts
+author: Miguel Alvarez
+date: '2023-05-07'
+date-modified: '`r Sys.Date()`'
+#image: tidyr.png
+categories:
+  - support
+description:
+  Links to blog posts around the work with the packages `taxlist` and `vegtable`.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+draft: false
+---
+
+The next is a list of blog posts dealing with the work with `taxlist` and
+`vegtable`. Most of those examples may be reproducible an help to exercise
+the work with these packages.
+
+- The [taxlist home page](https://docs.ropensci.org/taxlist/) includes some
+  examples working with the installed data set and links to vigenettes and
+  documentation of functions.
+- The [vegtable home page](http://kamapu.github.io/vegtable/) has also few examples for doing sub sets and mapping
+  with `leaflet`.
+- In [Basics on the work with vegetation-plots in
+  vegtable](https://kamapu.github.io/posts/vegtable-press-2/) there is a more
+  extended explanation about `taxlist` and `vegtable` with one example.
+- Another extended explanation using data from Kenian forests is displayed in
+  [Introduction to the package
+  vegtable](https://kamapu.github.io/posts/vegtable-intro/)
+- One of the newest posts is
+  [Vegetation of East African
+  wetlands - Assessment using R
+  and vegtable](https://kamapu.github.io/posts/ea-wetlands/) explaining the
+  code used for a publication dealing with the classification of wetland
+  vegetation in East Africa.
