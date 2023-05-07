@@ -55,5 +55,8 @@
   },
   "posts/ask-for-help/index.qmd": {
     "index.html": "663fe9f9"
+  },
+  "posts/blog-collection/index.qmd": {
+    "index.html": "b6ec7319"
   }
 }

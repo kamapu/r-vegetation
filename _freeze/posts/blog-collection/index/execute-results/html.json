@@ -1,0 +1,14 @@
+{
+  "hash": "fb2eb4501023a85f44a05b9912e68ee5",
+  "result": {
+    "markdown": "---\ntitle: Collection of Blog Posts\nauthor: Miguel Alvarez\ndate: '2023-05-07'\ndate-modified: '2023-05-07'\n#image: tidyr.png\ncategories:\n  - support\ndescription:\n  Links to blog posts around the work with the packages `taxlist` and `vegtable`.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\ndraft: false\n---\n\n\nThe next is a list of blog posts dealing with the work with `taxlist` and\n`vegtable`. Most of those examples may be reproducible an help to exercise\nthe work with these packages.\n\n- The [taxlist home page](https://docs.ropensci.org/taxlist/) includes some\n  examples working with the installed data set and links to vigenettes and\n  documentation of functions.\n- The [vegtable home page](http://kamapu.github.io/vegtable/) has also few examples for doing sub sets and mapping\n  with `leaflet`.\n- In [Basics on the work with vegetation-plots in\n  vegtable](https://kamapu.github.io/posts/vegtable-press-2/) there is a more\n  extended explanation about `taxlist` and `vegtable` with one example.\n- Another extended explanation using data from Kenian forests is displayed in\n  [Introduction to the package\n  vegtable](https://kamapu.github.io/posts/vegtable-intro/)\n- One of the newest posts is\n  [Vegetation of East African\n  wetlands - Assessment using R\n  and vegtable](https://kamapu.github.io/posts/ea-wetlands/) explaining the\n  code used for a publication dealing with the classification of wetland\n  vegetation in East Africa.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
