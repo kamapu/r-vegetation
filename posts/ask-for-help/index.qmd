@@ -1,0 +1,92 @@
+---
+title: Ask for Help
+author: Miguel Alvarez
+date: '2023-05-07'
+date-modified: '`r Sys.Date()`'
+#image: tidyr.png
+categories:
+  - support
+description:
+  Alternative channels for solving issues.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+draft: false
+---
+
+There are different ways to solve issues, depending on the type of the problem
+faced during coding.
+You don't know the source of an error message? Do you suspect a bug in the used
+packages? Are you requesting further development of a package? Such questions
+may be proper in some channels but in other not. Here some hints.
+
+# Getting Help in R
+
+The basic function `help()` can be used to browse the documentation of a
+function or data set but sometimes also documentation o a package.
+An alias is the operator `?` followed by the symbol of the function or data
+set.
+
+To search by a topic, you can use `help.search()` or `??`, while
+`help.start()` takes you to the home of the R help pages.
+
+Further support is offered by demos (`demo()`) and vignettes
+(functions `browsevignette()` and `vignette()`).
+Furthermore there is a huge number of useful tutorials available on the
+Internet.
+
+Here some example of code asking for support.
+
+```{r eval=FALSE}
+# Documentation of a function
+?mean
+
+# Search by topic
+??"linear regression"
+
+# See a demo
+demo("graphics")
+
+# See a vignette
+vignette("ggplot2-specs")
+
+# Search forum at r-project.org
+RSiteSearch("logistic regression")
+```
+
+# Channels in Internet
+
+One of the most common places to ask for questions related to R and other
+programming languages is [stack overflow](https://stackoverflow.com/).
+This service is for free and you can browse in the discussions without any
+membership.
+For asking questions you have to register and there is a system of reputation
+metrics that is restrictive at the beginning but rewards your engagement in the
+network.
+
+Social media are also alternatives for askig and discussing topics related with
+your work in R. They may also offer the option of creating groups for such
+discussions. Here a personal recommendation is the grou
+[Ecology in R](https://www.facebook.com/groups/302253597304209) at facebook.
+
+Any online searching machine may also drive you to diverse forums and tutorials
+on the Internet.
+
+In the especial case that you suspect a bug in a package or wish new features
+in existing packages, many of them may be developed at DevOps platforms such as
+[GitHub](https://github.com/) and [GitLab](https://about.gitlab.com/). In such
+cases you can report issues after registering. Alternative you can contact
+developers per e-mail.
+
+# Good Practices
+
+Here a personal check-list for asking questions and reporting issues.
+
+- Take your time searching for existing answers in internet
+- KESS (*keep it simple stupid*)
+- Use **minimal reproducible examples**
+- Be polite
+- Tag, comment or report the solution
+- Use **Markdown** if suitable
