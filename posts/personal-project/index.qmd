@@ -3,7 +3,7 @@ title: Personal Project
 author: Miguel Alvarez
 date: '2023-05-05'
 date-modified: '`r Sys.Date()`'
-#image: fuchsia.jpg
+image: field-sampling.jpg
 categories:
   - exercise
   - session 3
