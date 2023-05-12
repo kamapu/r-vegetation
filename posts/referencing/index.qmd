@@ -1,0 +1,38 @@
+---
+title: Adding References
+author: Miguel Alvarez
+date: '2023-05-12'
+date-modified: '`r Sys.Date()`'
+#image: field-sampling.jpg
+categories:
+  - exercise
+  - session 4
+description: 
+  Including references in released projects.
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+
+# Task
+
+Export or copy a bibtex database from your own electronic library and insert
+references in your document [Species Description](../species-description).
+On this task you can expand the content of your document.
+
+# Alternative
+
+You can also insert references in your document [Describing
+Vegetation-Plots](../describe-vegtable).
+
+# Trained Skills
+
+- Advanced knowledge about the use of RMarkdown for reporting scientific results
+- Management of electronic libraries and citation styles
+
+# Submitted Results
+
+No submitted resuts yet.
