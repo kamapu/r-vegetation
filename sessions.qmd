@@ -38,7 +38,6 @@ For that we will be introduced to the package
 [R script](documents/session-3.R)\
 [RMarkdown script](documents/_notebook-session-3.Rmd)
 
-[script](documents/session-3.R)
 
 # Session 4
 
@@ -47,11 +46,11 @@ It is time to get more advance skills on working with
 We will also discuss a workflow for starting from raw data to a `vegtable`
 object.
 
+[R script](documents/session-4.R)\
+[RMarkdown script](documents/_notebook-session-4.Rmd)
+
+
 <!--
-
-[slides](documents/vegetation-4.pdf)
-
-[script](documents/session-4.R)
 
 # Session 5
 

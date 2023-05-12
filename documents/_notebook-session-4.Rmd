@@ -1,0 +1,39 @@
+---
+title: Template for Notebooks using RMarkdown with References
+author: Your Name
+output:
+  bookdown::html_document2:
+    toc: true
+    toc_float: true
+    self_contained: true
+bibliography: "librarymiguel.bib"
+link-citations: true
+csl: "vegetation-classification-and-survey.csl"
+---
+
+```{r options, echo=FALSE, message=FALSE}
+library(knitr)
+```
+
+# Introduction
+
+An overview of the head of this data frame is shown in Table \@ref(tab:iris).
+
+```{r iris, echo=FALSE}
+kable(head(iris), caption = "Example of header.")
+```
+
+We can explore the tendencies by species using boxplots, as in Fig \@ref(fig:iris-box).
+
+```{r iris-box, echo=FALSE, fig.cap="An example of boxplots."}
+boxplot(Sepal.Length ~ Species, data = iris)
+```
+
+# Data Source
+
+This data was colleted by Anderson and published in @Anderson1935.
+
+This data was colleted by Anderson and published in a journal article [see @Anderson1935].
+
+
+# Reference List
