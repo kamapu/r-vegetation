@@ -1,0 +1,14 @@
+{
+  "hash": "b7c8024eb1fa17a315e8d8af181c8524",
+  "result": {
+    "markdown": "---\ntitle: Adding References\nauthor: Miguel Alvarez\ndate: '2023-05-12'\ndate-modified: '2023-05-12'\n#image: field-sampling.jpg\ncategories:\n  - exercise\n  - session 4\ndescription: \n  Including references in released projects.\nexecute: \n  message: false\n  warning: false\neditor_options: \n  chunk_output_type: console\n---\n\n\n\n# Task\n\nExport or copy a bibtex database from your own electronic library and insert\nreferences in your document [Species Description](../species-description).\nOn this task you can expand the content of your document.\n\n# Alternative\n\nYou can also insert references in your document [Describing\nVegetation-Plots](../describe-vegtable).\n\n# Trained Skills\n\n- Advanced knowledge about the use of RMarkdown for reporting scientific results\n- Management of electronic libraries and citation styles\n\n# Submitted Results\n\nNo submitted resuts yet.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
