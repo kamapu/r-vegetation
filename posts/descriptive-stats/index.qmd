@@ -41,4 +41,5 @@ You can use an own data set, instead.
 
 [Lucrecia Lipoma](lucrecia-lipoma.html)\
 [Virginia Palchetti](virginia-palchetti.html)\
-[Diana Bonilla](diana-bonilla.html)
+[Diana Bonilla](diana-bonilla.html)\
+[Camilo Márquez](camilo-marquez.html)

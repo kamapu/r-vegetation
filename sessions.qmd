@@ -38,15 +38,16 @@ For that we will be introduced to the package
 [R script](documents/session-3.R)\
 [RMarkdown script](documents/_notebook-session-3.Rmd)
 
-<!--
-
 [script](documents/session-3.R)
 
 # Session 4
 
 It is time to get more advance skills on working with
 [**R Markdown**](https://rmarkdown.rstudio.com/).
-We will also work with aggregating information to clusters of plots.
+We will also discuss a workflow for starting from raw data to a `vegtable`
+object.
+
+<!--
 
 [slides](documents/vegetation-4.pdf)
 

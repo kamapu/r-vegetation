@@ -81,7 +81,7 @@
     "href": "posts/descriptive-stats/index.html",
     "title": "Descriptive Data Assessment",
     "section": "",
-    "text": "Task\nProduce an html_document with a description of the data set iris including following sections at least:\n\nAbout the Data Set (how was the data collected?).\nVariables (meaning of each variable including units when applicable)\nVisualization (Discuss some statistics and graphics including the code to produce it).\n\n\n\nAlternative\nYou can use an own data set, instead.\n\n\nTrained Skills\n\nConfidence using the Markdown language to produce text content.\nClear report on data source.\nBasic knowledge on statistics.\nProper use of R to produce statistics and graphics.\n\n\n\nSubmitted Results\nLucrecia Lipoma\nVirginia Palchetti\nDiana Bonilla"
+    "text": "Task\nProduce an html_document with a description of the data set iris including following sections at least:\n\nAbout the Data Set (how was the data collected?).\nVariables (meaning of each variable including units when applicable)\nVisualization (Discuss some statistics and graphics including the code to produce it).\n\n\n\nAlternative\nYou can use an own data set, instead.\n\n\nTrained Skills\n\nConfidence using the Markdown language to produce text content.\nClear report on data source.\nBasic knowledge on statistics.\nProper use of R to produce statistics and graphics.\n\n\n\nSubmitted Results\nLucrecia Lipoma\nVirginia Palchetti\nDiana Bonilla\nCamilo Márquez"
   },
   {
     "objectID": "posts/fake-wikipedia/index.html",
@@ -95,7 +95,7 @@
     "href": "sessions.html",
     "title": "Sessions",
     "section": "",
-    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nR script\nRMarkdown script\n\n\nSession 2\nWe dedicate this session to data formats and arrangements. Here we will introduce to the package taxlist, which is suitable for managing taxonomic information in R.\nslides\nR script\nRMarkdown script\n\n\nSession 3\nThis session is about assessing environmental and taxonomic information at each vegetation-plot observation. For that we will be introduced to the package vegtable.\nslides\nR script\nRMarkdown script"
+    "text": "Session 1\nWe will do a refresh on R basics focussing on data types, objects, and methods. This session includes a brief introduction on R Markdown and taxonomic resolution.\nslides\nR script\nRMarkdown script\n\n\nSession 2\nWe dedicate this session to data formats and arrangements. Here we will introduce to the package taxlist, which is suitable for managing taxonomic information in R.\nslides\nR script\nRMarkdown script\n\n\nSession 3\nThis session is about assessing environmental and taxonomic information at each vegetation-plot observation. For that we will be introduced to the package vegtable.\nslides\nR script\nRMarkdown script\nscript\n\n\nSession 4\nIt is time to get more advance skills on working with R Markdown. We will also discuss a workflow for starting from raw data to a vegtable object."
   },
   {
     "objectID": "downloads.html",
